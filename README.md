@@ -1,6 +1,6 @@
 # ML_GaussianNB
 <H1>How to use</H1> <br>
-<H3>Settings before clustering & classification</H3>
+<H3>Settings</H3>
 a. ML_WEEK7_PHW_auto.py<br>
 b. Read dataset file <br>
 
